@@ -19,7 +19,7 @@
 	<preference name="phonegap-version" value="clui-8.0.0"/>
 	<access origin="*" />
 
-	<plugin name="cordova-plugin-ad-admob-free"><variable name="ADMOB_APP_ID" value="ca-app-pub-6542606531896672~7114982190" />
+	<plugin name="cordova-plugin-ad-admob-free"><variable name="ADMOB_APP_ID" value="ca-app-pub-6542606531896672~7114982190 /></plugin>
 	<plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-media" />
